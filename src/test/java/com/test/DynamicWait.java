@@ -44,5 +44,6 @@ public class DynamicWait extends Base  {
 		js.executeScript("arguments[0].scrollIntoView(true)", down);
 		
 		System.out.println("dynamic wait done");
+		System.out.println("commit in dev branch");
 }
 }
