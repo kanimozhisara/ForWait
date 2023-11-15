@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-06T04:51:43 PST" name="Default suite" finished-at="2023-11-06T04:51:52 PST" duration-ms="9577">
+    <groups>
+    </groups>
+    <test started-at="2023-11-06T04:51:43 PST" name="Default test" finished-at="2023-11-06T04:51:52 PST" duration-ms="9577">
+      <class name="com.test.ERports">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.test.ERports@34e9fd99]" started-at="2023-11-06T04:51:43 PST" name="beforeClass" finished-at="2023-11-06T04:51:43 PST" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="tc1()[pri:0, instance:com.test.ERports@34e9fd99]" started-at="2023-11-06T04:51:43 PST" name="tc1" finished-at="2023-11-06T04:51:51 PST" duration-ms="7273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="tc2()[pri:0, instance:com.test.ERports@34e9fd99]" started-at="2023-11-06T04:51:51 PST" name="tc2" finished-at="2023-11-06T04:51:51 PST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.test.ERports@34e9fd99]" started-at="2023-11-06T04:51:51 PST" name="afterClass" finished-at="2023-11-06T04:51:52 PST" duration-ms="1763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.test.ERports -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
